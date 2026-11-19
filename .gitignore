@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Kaggle datasets
+train.csv
+test.csv
+sample_submission.csv
+data_description.txt
+
+# Generated files
+submission.csv
+*.pkl
+*.joblib
+*.model
